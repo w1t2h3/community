@@ -18,8 +18,8 @@ Win + End ：将光标同时定位在多行的末尾处（先执行上面一行�
 [Spring Web](https://spring.io/guides/gs/serving-web-content/)  
 [Bootstrap](https://v3.bootcss.com/getting-started/)  
 [es](https://elasticsearch.cn/)  
-[Github OAuth](https://developer.github.com/apps/building-github-apps/creating-a-github-app/)
+[Github OAuth](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
 
 
 ## 工具
-[Visual-Paradigm](https://www.visual-paradigm.com/cn/download/community.jsp)
+[Visual-Paradigm](https://www.visual-paradigm.com/cn/download/community.jsp)  
